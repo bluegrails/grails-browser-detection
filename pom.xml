@@ -9,7 +9,7 @@
     <version>1.10-SNAPSHOT</version>
   </parent>
 
-  <groupId>nz.ac.auckland.grails.plugins</groupId>
+  <groupId>com.bluetrainsoftware.bluegrails.plugins</groupId>
   <artifactId>browser-detection</artifactId>
   <packaging>grails-plugin2</packaging>
   <version>1.1</version>
@@ -18,7 +18,7 @@
   <url>http://grails.org/plugin/browser-detection</url>
   <developers>
     <developer>
-      <name>Various</name>
+      <name>Kevin M. Gill, Edvinas Bartkus, Gennady Tsarik</name>
     </developer>
   </developers>
 
