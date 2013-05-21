@@ -6,7 +6,7 @@
   <parent>
     <groupId>nz.ac.auckland.grails</groupId>
     <artifactId>uoa-grails2-parent</artifactId>
-    <version>1.10-SNAPSHOT</version>
+    <version>1.10</version>
   </parent>
 
   <groupId>com.bluetrainsoftware.bluegrails.plugins</groupId>
@@ -49,12 +49,7 @@
       <version>[2,)</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.8.1</version>
-      <scope>test</scope>
-    </dependency>
+
     <dependency>
       <groupId>org.grails</groupId>
       <artifactId>grails-plugin-testing</artifactId>
